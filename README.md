@@ -1,7 +1,7 @@
 # JP-Dev-Previsao
 <br> <h2> Esse foi um dos projetos que eu desenvolvi!</h2><hr>
 
-link do projeto => <a href="https://jp-dev-previsao.netlify.app/"> JP DEV PREVISÃO </a>
+link do projeto => <a target="_blank" href="https://jp-dev-previsao.netlify.app/">  JP DEV PREVISÃO </a>
 <br>
 <h3> Para a criação desse projeto, eu utilizei as seguintes tecnologias abaixo!! </h3>
 <br>
